@@ -1,1 +1,1 @@
-Maintained StepScan Python >= 3.0 API.
+Updated StepScan Python >= 3.0 API.
